@@ -1,4 +1,4 @@
-![alt text]([https://github.com/Parckes/avito-internship/blob/master/Screenshot from 2024-09-16 14-36-30.png?raw=true](https://github.com/Parckes/avito-internship/blob/master/screen.png))
+![alt text](https://github.com/Parckes/avito-internship/blob/master/screen.png)
 ## Структура проекта
 В данном проекте находится типовой пример для сборки приложения в докере из находящящегося в проекте Dockerfile. Пример на Gradle используется исключительно в качестве шаблона, вы можете переписать проект как вам хочется - главное, что бы Dockerfile находился в корне проекта и приложение отвечало по порту 8080. Других требований нет.
 
